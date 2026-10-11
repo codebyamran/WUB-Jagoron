@@ -1,0 +1,21 @@
+{
+  "site_title": "Jagoron Digital Guide",
+  "site_url": "",
+  "organisation": "Project Jagoron, World University of Bangladesh",
+  "updated": "October 2026",
+  "contact_email": "",
+  "campus_contacts": [
+    {"role": "Class teacher / Department head", "contact": ""},
+    {"role": "Proctor / Student affairs / Disciplinary committee", "contact": ""},
+    {"role": "Sexual and gender-based harassment complaint committee", "contact": ""},
+    {"role": "Counselling cell or trusted teacher", "contact": ""},
+    {"role": "IT cell / Jagoron cyber team (hacked accounts, technical help)", "contact": ""}
+  ],
+  "national_contacts": [
+    {"number": "999", "label": "Immediate danger", "detail": "National emergency number", "verified": false},
+    {"number": "109", "label": "Women and children facing violence, including online", "detail": "National Helpline, Department of Women Affairs (reported as 24/7)", "verified": false},
+    {"number": "1098", "label": "Child in danger or being bullied (under 18)", "detail": "Child Helpline", "verified": false},
+    {"number": "01320000888", "label": "Police Cyber Support for Women (PCSW)", "detail": "Also: Facebook page \"Police Cyber Support for Women\" and cybersupport.women@police.gov.bd", "verified": false},
+    {"number": "01320010146", "label": "CID Cyber Police Center", "detail": "Hotlines 01320010146, 01320010147 and 01320010148", "verified": false}
+  ]
+}
